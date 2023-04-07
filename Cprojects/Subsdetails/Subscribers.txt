@@ -1,0 +1,99 @@
+
+--------- Subscriber Details ---------
+-------------------------------------------
+id=1
+Full-Name=Ganesh Adhikari
+age=12.000000
+contact=255
+Address=255
+Health-History=255
+Plan=Plan120
+Claim-Limit=Annual Claim Limit
+
+--------- Subscriber Details ---------
+-------------------------------------------
+id=1
+Full-Name=ganesh adhikari
+age=12.000000
+contact=222
+Address=222
+Health-History=222
+Plan=Plan120
+Claim-Limit=Annual Claim Limit
+
+--------- Subscriber Details ---------
+-------------------------------------------
+id=1
+Full-Name=ggg ggg
+age=12.000000
+contact=255
+Address=255
+Health-History=123
+Plan=Plan120
+Claim-Limit=Annual Claim Limit
+
+--------- Subscriber Details ---------
+-------------------------------------------
+id=1
+Full-Name=ggg ggg
+age=12.000000
+contact=123
+Address=123
+Health-History=123
+Plan=Plan120
+Claim-Limit=Annual Claim Limit
+
+--------- Subscriber Details ---------
+-------------------------------------------
+id=1
+Full-Name=gg gg
+age=12.000000
+contact=02
+Address=020
+Health-History=02
+Plan=Plan120
+Claim-Limit=Annual Claim Limit
+
+--------- Subscriber Details ---------
+-------------------------------------------
+id=1
+Full-Name=gan esh
+age=12.000000
+contact=254
+Address=12
+Health-History=12
+Plan=Plan120
+Claim-Limit=Annual Claim Limit
+
+--------- Subscriber Details ---------
+-------------------------------------------
+id=1
+Full-Name=222r
+age=12.000000
+contact=222
+Address=222
+Health-History=222
+Plan=Plan120
+Claim-Limit=Annual Claim Limit
+
+--------- Subscriber Details ---------
+-------------------------------------------
+id=1
+Full-Name=JHJKG
+age=12.000000
+contact=]GHVYJ
+Address=YFU\]
+Health-History=TFYU
+Plan=Plan120
+Claim-Limit=Annual Claim Limit
+
+--------- Subscriber Details ---------
+-------------------------------------------
+id=1
+Full-Name=Ganesh Adhikari
+age=6.000000
+contact=9864434149
+Address=ganesh410@gmail.com
+Health-History=good
+Plan=Plan150
+Claim-Limit=Annual Claim Limit

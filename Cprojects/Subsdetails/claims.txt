@@ -1,0 +1,127 @@
+
+--------- Claim Details ---------
+---------------------------------------------------------------
+claim Id=1
+User Id=1
+Ward=Intensive Care Unit(ICU)
+No Of Days=1
+Cost Of Supplies=1.000000
+Surgical Fees=1.000000
+Other Charges=1.000000
+Claimable Balance=599750.000000
+Claimed Balance = 250.000000
+Claimed Date=2021-07-10
+Claimed Time=10:42:45
+Excess Balance=0.000000
+--------- Claim Details ---------
+---------------------------------------------------------------
+claim Id=1
+User Id=1
+Ward=Intensive Care Unit(ICU)
+No Of Days=1
+Cost Of Supplies=1.000000
+Surgical Fees=1.000000
+Other Charges=1.000000
+Claimable Balance=599750.000000
+Claimed Balance = 250.000000
+Claimed Date=2021-07-10
+Claimed Time=10:45:34
+Excess Balance=0.000000
+--------- Claim Details ---------
+---------------------------------------------------------------
+claim Id=1
+User Id=1
+Ward=Intensive Care Unit(ICU)
+No Of Days=1
+Cost Of Supplies=1.000000
+Surgical Fees=1.000000
+Other Charges=1.000000
+Claimable Balance=599750.000000
+Claimed Balance = 250.000000
+Claimed Date=2021-07-10
+Claimed Time=10:48:36
+Excess Balance=0.000000
+--------- Claim Details ---------
+---------------------------------------------------------------
+claim Id=1
+User Id=1
+Ward=Intensive Care Unit(ICU)
+No Of Days=1
+Cost Of Supplies=1.000000
+Surgical Fees=1.000000
+Other Charges=1.000000
+Claimable Balance=599750.000000
+Claimed Balance = 250.000000
+Claimed Date=2021-07-10
+Claimed Time=10:50:16
+Excess Balance=0.000000
+--------- Claim Details ---------
+---------------------------------------------------------------
+claim Id=1
+User Id=1
+Ward=Normal Ward
+No Of Days=0
+Cost Of Supplies=0.000000
+Surgical Fees=0.000000
+Other Charges=0.000000
+Claimable Balance=600000.000000
+Claimed Balance = 0.000000
+Claimed Date=2021-07-10
+Claimed Time=10:57:22
+Excess Balance=0.000000
+--------- Claim Details ---------
+---------------------------------------------------------------
+claim Id=1
+User Id=1
+Ward=Intensive Care Unit(ICU)
+No Of Days=1
+Cost Of Supplies=1.000000
+Surgical Fees=1.000000
+Other Charges=1.000000
+Claimable Balance=599750.000000
+Claimed Balance = 250.000000
+Claimed Date=2021-07-10
+Claimed Time=10:59:45
+Excess Balance=0.000000
+--------- Claim Details ---------
+---------------------------------------------------------------
+claim Id=1
+User Id=1
+Ward=Normal Ward
+No Of Days=1
+Cost Of Supplies=25.000000
+Surgical Fees=25.000000
+Other Charges=25.000000
+Claimable Balance=599880.000000
+Claimed Balance = 120.000000
+Claimed Date=2021-07-17
+Claimed Time=12:19:40
+Excess Balance=0.000000
+--------- Claim Details ---------
+---------------------------------------------------------------
+claim Id=1
+User Id=1
+Ward=Intensive Care Unit(ICU)
+No Of Days=10
+Cost Of Supplies=500.000000
+Surgical Fees=200.000000
+Other Charges=10.000000
+Claimable Balance=746000.000000
+Claimed Balance = 4000.000000
+Claimed Date=2022-04-13
+Claimed Time=08:05:50
+Excess Balance=0.000000
+--------- Claim Details ---------
+---------------------------------------------------------------
+claim Id=1
+User Id=1
+Ward=Normal Ward
+No Of Days=10
+Cost Of Supplies=400.000000
+Surgical Fees=10.000000
+Other Charges=40.000000
+Claimable Balance=748500.000000
+Claimed Balance = 1500.000000
+Claimed Date=2022-04-13
+Claimed Time=08:07:16
+Excess Balance=0.000000
